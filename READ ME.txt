@@ -1,0 +1,20 @@
+
+*********************************************************
+
+proyecto de videojuego
+
+*********************************************************
+
+el proyecto consiste en un player y un vehiculo
+el player se maneja con las teclas WASD
+co el boton derecho del raton guias al player
+cuando el player se acerca al vehiculo este se puede subir en el
+aparece un recuador con el dibujo de la escavadora para ver que se puede subir en el vehiculo
+con la teclea enter subes al vehivulo y vambia de camara
+con las teclas ERTF  se maneja el vehiculo
+con las teclas YH/UJ/IK/OL son para manejar el brazo de la escavadora
+con la tecla 0 vuelve a bajar del vehiculo y se vuelvea la primera camera
+con la tecla 2 cambiamos de camara frontal al player
+
+
+el objetivo del juego seria poner un objeto ramdon sobre el escenario y haber en cuanto tiempo lo encuentras.
